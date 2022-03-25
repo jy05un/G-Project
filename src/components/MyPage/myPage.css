@@ -1,0 +1,11 @@
+.mypage-login {
+    text-align: center;
+}
+
+.login-input {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 40px;
+    margin: 0 0 8px;
+}
